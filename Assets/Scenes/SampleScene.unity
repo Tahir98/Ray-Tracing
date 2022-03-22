@@ -167,12 +167,12 @@ MonoBehaviour:
   SkyboxTexture: {fileID: 2800000, guid: cb1bfdfac25b2a0439ca1834404a1bbd, type: 3}
   RayTracingCount: 3
   DirectionalLight: {fileID: 705507994}
-  conservation: 0.99
+  conservation: 0.85
   width: 5
   height: 5
   gravity: -8
   SphereRadius: {x: 3, y: 8}
-  SpheresMax: 20
+  SpheresMax: 50
   SpherePlacementRadius: 33.1
   metallnes: 0.8
 --- !u!20 &465378935
